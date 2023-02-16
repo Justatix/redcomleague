@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>This is the homepage to the Redcom Leagueute.</p>
+  <p>This is the homepage to the Redcom League.</p>
 `;
 
 /*   STEP 3   */
