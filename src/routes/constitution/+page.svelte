@@ -179,7 +179,6 @@
 <p style="margin: 0cm 0cm 0cm 35.45pt;font-size: medium;font-family: Calibri, sans-serif;color: rgb(0, 0, 0);font-style: normal;font-weight: 400;text-align: start;text-indent: 0px;text-decoration: none;">&nbsp;</p>
 <p style="margin: 0cm 0cm 0cm 35.45pt;font-size: medium;font-family: Calibri, sans-serif;color: rgb(0, 0, 0);font-style: normal;font-weight: 400;text-align: start;text-indent: 0px;text-decoration: none;">&nbsp;</p>
     <li><span lang="EN-US">1 DEF</span></li>
-</ul>
 <p style="margin: 0cm 0cm 0cm 35.45pt;font-size: medium;font-family: Calibri, sans-serif;color: rgb(0, 0, 0);font-style: normal;font-weight: 400;text-align: start;text-indent: 0px;text-decoration: none;">&nbsp;</p>
 <p style="margin: 0cm 0cm 0cm 35.45pt;font-size: medium;font-family: Calibri, sans-serif;color: rgb(0, 0, 0);font-style: normal;font-weight: 400;text-align: start;text-indent: 0px;text-decoration: none;">Super Flex = QB, RB, WR or TE</p>
 <p style="margin: 0cm 0cm 0cm 35.45pt;font-size: medium;font-family: Calibri, sans-serif;color: rgb(0, 0, 0);font-style: normal;font-weight: 400;text-align: start;text-indent: 0px;text-decoration: none;">Flex = RB, WR or TE</p>
