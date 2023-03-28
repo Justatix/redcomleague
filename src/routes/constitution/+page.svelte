@@ -1,4 +1,7 @@
-
+<meta
+  name    = "color-scheme"
+  content = "light dark"
+/>
 <p style="margin-left:47px; text-align:start"><span style="font-size:medium"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong><span style="font-size:24pt">The By-laws of the RedCom League</span></strong></span></span></span></p>
 
 <p style="margin-left:47px; text-align:start">&nbsp;</p>
