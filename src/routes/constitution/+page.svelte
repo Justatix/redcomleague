@@ -95,10 +95,17 @@
 <p style="font-weight: 400; padding-left: 30px;">One (1) team with the highest scored points for among the remaining teams - Seed #6</p>
 <p style="font-weight: 400; padding-left: 30px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p style="font-weight: 400; padding-left: 30px;"><strong> Weeks 15-17 </strong></p>
+<p style="font-weight: 400; padding-left: 30px;">Top 2 seeds get bye week in Week 15</p><p style="font-weight: 400; padding-left: 30px;"><strong> Weeks 15-17 </strong></p>
 <p style="font-weight: 400; padding-left: 30px;">Top 2 seeds get bye week in Week 15</p>
 <p style="font-weight: 400; padding-left: 30px;">During Week 15, seed #3 plays against seed #6 / seed #4 plays against seed #5. The winners move on to the next round</p>
-<p style="font-weight: 400; padding-left: 30px;">During Weeks 16, seeds #1 will play against the lowest remaining seeded team and seed #2, will play against the highest remaining from Wild Card Round&nbsp;</p>
+<p style="font-weight: 400; padding-left: 30px;">
+    <span style="text-decoration: line-through; color: red;">
+        During Weeks 16, seeds #1 will play against the lowest remaining seeded team and seed #2, will play against the highest remaining from Wild Card Round&nbsp;
+    </span>
+</p>
+<p style="font-weight: 400; padding-left: 30px;">During Week 16, the #1 seed will have the choice to select their opponent in the Semi-Finals.</p>
 <p style="font-weight: 400; padding-left: 30px;">During Week 17, there will be the RedCom Bowl and the final for 3rd Place</p>
+
 <p style="font-weight: 400; padding-left: 30px;">&nbsp;</p>
 <p style="font-weight: 400; padding-left: 30px;"><strong> Free Agency In Season:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
 <p style="font-weight: 400; padding-left: 30px;">Waivers by way of blind bidding (FAAB)</p>
